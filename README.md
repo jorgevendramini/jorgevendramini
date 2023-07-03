@@ -11,10 +11,6 @@ Javascript | HTML | CSS | GIT | Figma
 
 On-going Projects TBA
 
-## Education
-
-Provide details about your educational background and any relevant certifications.
-
 ## Where to find me
 
 You can contact me on my <a href="in/jorge-enrique-26a50b105">Linkedln</a>.

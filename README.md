@@ -1,36 +1,21 @@
-# Hello
+# Hello There 👋
 
-![Your Name](your-photo-url.jpg)
+My name is Jorge Enrique. I'm currently studying front and back end. Living in Brazil, I'm passionate about web development, gaming, and website creation. 
+🎮👨‍💼☕
 
-## Introduction
+## Skills
 
-Briefly introduce yourself, your skills, and your areas of interest.
+Javascript | HTML | CSS | GIT | Figma
 
 ## Projects
 
-List and briefly describe your notable projects. Include links to the repositories or hosted versions.
+On-going Projects TBA
 
 ## Education
 
 Provide details about your educational background and any relevant certifications.
 
-## Contact
+## Where to find me
 
-Share your contact information, such as email address or social media profiles.
-
-## Blog
-
-If you maintain a technical blog, you can include links to your latest articles or provide a brief overview.
-
-## Contributions
-
-Highlight any open-source projects you have contributed to and mention your contributions.
-
-## Skills
-
-List your technical skills or areas of expertise.
-
-## Interests
-
-Share your non-technical interests or hobbies.
+You can contact me on my <a href="in/jorge-enrique-26a50b105">Linkedln</a>.
 

@@ -5,7 +5,7 @@ My name is Jorge Enrique. I'm currently studying front and back end. Living in B
 
 ## Skills
 
-Javascript | HTML | CSS | GIT | Figma | Python | C#
+Django | Python | HTML | CSS | Javascript | Bootstrap | GIT | Figma | SQL
 
 ## Where to find me
 
